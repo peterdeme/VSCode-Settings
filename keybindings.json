@@ -1,0 +1,8 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+a alt+p",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Amend And Force Push"
+    }
+]

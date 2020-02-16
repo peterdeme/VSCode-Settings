@@ -1,0 +1,26 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "window.zoomLevel": 1,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.egg-info": true,
+        "**/*.pyc": true
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "editor.fontFamily": "FiraCode-Retina",
+    "editor.fontLigatures": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.ignoreMissingGitWarning": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "python.jediEnabled": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.formatOnPaste": true
+}
